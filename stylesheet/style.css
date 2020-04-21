@@ -1,6 +1,31 @@
 .navbar-brand {
-    color: #d3b24a !important;
+    color: #fed123;
 }
-.nav-item {
+
+.navbar-brand:hover {
+    color: #d3b24a;
+}
+
+.nav-item a{
+    color: #c2c7ca;
+}
+.nav-item a:hover{
     color: #93999e;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.navbar {
+    background-color: transparent !important;
+}
+
+.bg-dark {
+    background-color: #2c2b2f;
+}
+
+.text-white {
+    color: #ffffff;
 }
