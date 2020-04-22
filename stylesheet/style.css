@@ -33,3 +33,7 @@ h1 {
 .borda {
     border: 3px solid gray;
 }
+
+.icons:hover{
+    opacity: 0.5;
+}
