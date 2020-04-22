@@ -29,3 +29,7 @@ h1 {
 .text-white {
     color: #ffffff;
 }
+
+.borda {
+    border: 3px solid gray;
+}
