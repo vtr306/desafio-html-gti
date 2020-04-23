@@ -37,3 +37,11 @@ h1 {
 .icons:hover{
     opacity: 0.5;
 }
+
+.amarelo {
+    color: #fed123;
+}
+
+.amarelo:hover{
+    color: #d3b24a;
+}
