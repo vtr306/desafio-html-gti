@@ -73,3 +73,9 @@ header {
 .bg-secondary {
     background-color: #f8f9fa !important;
 }
+
+.about-img {
+    height: 128px;
+    width: 128px;
+    object-fit: cover;
+}
