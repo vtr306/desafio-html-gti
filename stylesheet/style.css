@@ -74,6 +74,10 @@ header {
     background-color: #f8f9fa !important;
 }
 
+.fundo {
+    background-color: #ffffff;
+}
+
 .about-img {
     height: 128px;
     width: 128px;
