@@ -49,3 +49,17 @@ h1 {
 body {
     font-family: 'Baloo Bhaina 2', cursive;
 }
+
+header {
+    background-image: url(/img/Header-Background.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+#contact {
+    background-image: url(/img/Contact-Background.jpg);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
