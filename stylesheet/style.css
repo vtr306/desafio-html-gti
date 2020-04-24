@@ -69,3 +69,7 @@ header {
     width: 200px;
     object-fit: cover;
 }
+
+.bg-secondary {
+    background-color: #f8f9fa !important;
+}
