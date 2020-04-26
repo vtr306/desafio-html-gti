@@ -23,7 +23,7 @@ h1 {
 }
 
 .bg-dark {
-    background-color: #2c2b2f;
+    background-color: #050505 !important;
 }
 
 .text-white {
@@ -51,10 +51,10 @@ body {
 }
 
 header {
-    background-image: url(../img/Header-Background.jpg);
+    background-image: url(../img/Header-Background-2.jpg);
     object-fit: cover;
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
 }
 
 #contact {
