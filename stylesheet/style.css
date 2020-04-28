@@ -83,3 +83,8 @@ header {
     width: 128px;
     object-fit: cover;
 }
+
+.logos {
+    height: 100px;
+    width: auto;
+}
