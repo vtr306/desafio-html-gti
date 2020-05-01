@@ -93,3 +93,7 @@ header {
     height: 60px;
     width: auto;
 }
+
+.seta {
+    opacity: 0.8;
+}
